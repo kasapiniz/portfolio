@@ -1,35 +1,33 @@
 # Portfolyo
-PROJELERİM
--  [SpeakSTU](https://speakstu.com/) - Flutter Mobil Uygulama
--  [Bivobi](http://bivobi.com/) - Flutter Mobil Uygulama
--  [Bank-UI -Kod](https://github.com/kasapiniz/bank-ui) - Flutter Tasarım
--  [Natours](https://natourssimple.herokuapp.com/) -[Kod detayı](https://github.com/kasapiniz/natours) - Backend Node.js
--  [Fiorfi -Kod](https://github.com/kasapiniz/fiorfiapp) -Java Android Mobil Uygulama
+MY PROJECTS
+-  [SpeakSTU](https://speakstu.com/) - Flutter Mobile App
+-  [Bivobi](http://bivobi.com/) - Flutter Mobil App
+-  [Bank-UI -Kod](https://github.com/kasapiniz/bank-ui) - Flutter Design
+-  [Natours](https://natourssimple.herokuapp.com/) -[Code detail](https://github.com/kasapiniz/natours) - Backend Node.js
+-  [Fiorfi -Kod](https://github.com/kasapiniz/fiorfiapp) -Java Android Mobil App
 
 
-## SpeakSTU-Bitirme Projesi 2022
-Projemizin hem Ios hem Android cihazlarda çalışabilmesi için Flutter ile cross-platform olarak geliştirmekteyiz. Back-End altyapısını NodeJS ile oluşturduk. Verileri MongoDB ile tutmaktayız. Kararlı ve optimize bir sistem çıkartabilmek ve zaman kazanabilmek için API ve adding modüllerden faydalanarak açık kaynak projelerden yararlanmayı planlamaktayız. Aslında yukarıda listelenmiş farklı kategorilerde olan teknolojiler puzzle gibi bir araya geldiklerinde SpeakStu Mobil Uygulaması Ortaya çıkmış oluyor. 
-Hedef kitlesi üniversite öğrencilerini ve akademisyenlerdir.m Paydaşlarımız arasında bulunan üniversiteler, akademisyenler ve öğrenciler ile sıra dışı bir ekosistem yaratarak. Kampüs içi ve Kurumlar arası etkileşimi arttırarak daha verimli ve efektif bir düzen yaratmayı planlıyoruz.
+## SpeakSTU-2022
+We are developing our project as a cross-platform with Flutter so that it can run on both Ios and Android devices. I developed my project as a cross-platform with Flutter so that it can run on both Ios and Android devices. I created the back-end infrastructure with NodeJS. I keep data with MongoDB. Its target audience is university students and academics. By creating an extraordinary ecosystem with universities, academics and students among our stakeholders, I plan to create a more efficient and effective order by increasing the interaction between the campus and the Institutions.
 
- #### Frontend için MVVM yazılım mimarisini kullanmaktayız. 
+ #### I am using MVVM software architecture for frontend.
 
 <p align="left">
     <img src="https://user-images.githubusercontent.com/72016623/169648189-00f8da40-4613-4cd8-85b3-3aba36aef82e.png" width="300" height="400">
   </p>
   
- #### Backend için  Model-Routes-Controllers yapısını kullanmaktayız.
+ #### I am using Model-Routes-Controllers structure for backend.
  <p align="left">
     <img src="https://user-images.githubusercontent.com/72016623/169648370-3318b887-13bb-4e9b-8cb2-07e23e898b84.PNG" width="300" height="400">
   </p>
 
-Kullandığımız teknolojiler;
+Technologies I use;
 - Dart-Flutter (state-management MOBX)
 - Node.js
 - MongoDB
-- Mongoose
-- Unity 3D
+- mongoose
 
-Websitesi; https://speakstu.com/
+https://speakstu.com/
 
 ### Screenshots
 - Welcome Screen 
@@ -79,17 +77,19 @@ Websitesi; https://speakstu.com/
 
 
 
-## Bivobi 2021[devam etmekde]
-Üniversite öğrencilerinin sosyalleşebilmelerine olanak sağlayan etkinlik uygulaması. Flutter Projesidir.
- #### Frontend için MVVM yazılım mimarisini kullanmaktayım, Backend için  Model-Routes-Controllers yapısını kullanmaktayım.
+## Bivobi 2021[I work on it whenever I have time.]
+An activity application that allows university students to socialize.
+It's the Flutter Project.
+ #### I am using MVVM software architecture for Frontend, I am using Model-Routes-Controllers structure for Backend.
+ *Average 30-60 pages
 
-Kullandığım teknolojiler;
+Technologies I use;
 - Dart-Flutter (state-management MOBX)
 - Node.js
 - MongoDB
-- Mongoose
+- mongoose
 
-Websitesi; http://bivobi.com/ 
+ http://bivobi.com/ 
 
 ### Screenshots
 <p align="center">
@@ -108,24 +108,24 @@ Websitesi; http://bivobi.com/
 
 
 ## Bank-UI 2021
-Flutter UI tasarımı.
+Flutter UI design.
 
-Detaylı teknik kod incelemesi için; https://github.com/kasapiniz/bank-ui
+For detailed technical code review; https://github.com/kasapiniz/bank-ui
 - Flutter & Dart
 ### Screenshots
  <img src="https://user-images.githubusercontent.com/72016623/146659836-ad71d873-d5c7-499f-92e3-6e7559f1b0e0.jpeg" width="256" height="455">
 
 
 ## Natours 2021
-Natours sizlere çok farklı deneyimler yaşatarak hayata bakış açınızı farklı çoğrafi bölgelerde konaklama ve gezi fırsatı sunuyor.   
+Natours offers you the opportunity to stay and travel in different geographical regions by giving you very different experiences.
 
-Modern teknolojiler kullanılarak optimize ve kararlı bir altyapı sunulmuştur.
-- Node.js 
-- Express 
-- MongoDB 
-- Mongoose ve diğerleri.
+An optimized and stable infrastructure has been provided by using modern technologies.
+- Node.js
+- Express
+- MongoDB
+- Mongoose and others.
 
-Detaylı teknik kod incelemesi için; https://github.com/kasapiniz/natours
+For detailed technical code review; https://github.com/kasapiniz/natours
 
 - Websitesi; https://natourssimple.herokuapp.com/
 ### Screenshots
@@ -148,12 +148,12 @@ Detaylı teknik kod incelemesi için; https://github.com/kasapiniz/natours
 </p>
 
 ## Fiorfi 2020
-Takip ettiğiniz kişilerle fotoğraf paylaşmanızı sağlayan sosyal medya uygulamasıdır.
+It is a social media application that allows you to share photos with the people you follow.
 - Java
 - Android Studio
-- Firebase
+- firebase
 
-Detaylı teknik kod incelemesi için; https://github.com/kasapiniz/fiorfiapp
+For detailed technical code review; https://github.com/your butcher/fiorfiapp
 ### Screenshots
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72016623/145818039-3658e08d-3156-499f-8dc7-bcf4c70a031b.jpeg" width="256" height="455">
