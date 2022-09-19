@@ -1,10 +1,43 @@
 # Portfolyo
 MY PROJECTS
+-  [Bivobi](https://play.google.com/store/apps/details?id=com.bivobi.bivobi&gl=TR) - Flutter Mobil App
 -  [SpeakSTU](https://speakstu.com/) - Flutter Mobile App
--  [Bivobi](http://bivobi.com/) - Flutter Mobil App
 -  [Bank-UI -Kod](https://github.com/kasapiniz/bank-ui) - Flutter Design
 -  [Natours](https://natourssimple.herokuapp.com/) -[Code detail](https://github.com/kasapiniz/natours) - Backend Node.js
 -  [Fiorfi -Kod](https://github.com/kasapiniz/fiorfiapp) -Java Android Mobil App
+
+
+## Bivobi 2022
+-  [Click for Google Play Review.](https://play.google.com/store/apps/details?id=com.bivobi.bivobi&gl=TR) 
+
+
+An activity application that allows university students to socialize.
+It's the Flutter Project.
+ #### I am using MVVM software architecture for Frontend, I am using Model-Routes-Controllers structure for Backend.
+ *Average 30-60 pages
+
+Technologies I use;
+- Dart-Flutter (state-management MOBX)
+- Node.js
+- MongoDB
+- mongoose
+
+ http://bivobi.com/ 
+
+### Screenshots
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72016623/169649993-80e8c2e6-dcd7-4e13-9862-30f507f0c25b.jpeg" width="256" height="455">
+  <img src="https://user-images.githubusercontent.com/72016623/169649996-f70fc3fb-d814-4d67-a493-95b6228cc091.jpeg" width="256" height="455">
+  <img src="https://user-images.githubusercontent.com/72016623/169649995-4009b8ea-601b-4f73-b1e3-cf99811d5506.jpeg" width="256" height="455">
+
+</p>
+
+<p align="center">    <img src="https://user-images.githubusercontent.com/72016623/169650002-7d3d2470-49a1-4382-9814-8e5c08d36b58.jpeg" width="256" height="455">
+
+  <img src="https://user-images.githubusercontent.com/72016623/169649992-c39ba4d7-8f04-4ba0-9899-e345a6b32561.jpeg" width="256" height="455">
+    <img src="https://user-images.githubusercontent.com/72016623/169649994-40f47f16-68c2-402f-bd98-d39910441bce.jpeg" width="256" height="455">
+
+</p>
 
 
 ## SpeakSTU-2022
@@ -77,34 +110,6 @@ https://speakstu.com/
 
 
 
-## Bivobi 2021[I work on it whenever I have time.]
-An activity application that allows university students to socialize.
-It's the Flutter Project.
- #### I am using MVVM software architecture for Frontend, I am using Model-Routes-Controllers structure for Backend.
- *Average 30-60 pages
-
-Technologies I use;
-- Dart-Flutter (state-management MOBX)
-- Node.js
-- MongoDB
-- mongoose
-
- http://bivobi.com/ 
-
-### Screenshots
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/72016623/169649993-80e8c2e6-dcd7-4e13-9862-30f507f0c25b.jpeg" width="256" height="455">
-  <img src="https://user-images.githubusercontent.com/72016623/169649996-f70fc3fb-d814-4d67-a493-95b6228cc091.jpeg" width="256" height="455">
-  <img src="https://user-images.githubusercontent.com/72016623/169649995-4009b8ea-601b-4f73-b1e3-cf99811d5506.jpeg" width="256" height="455">
-
-</p>
-
-<p align="center">    <img src="https://user-images.githubusercontent.com/72016623/169650002-7d3d2470-49a1-4382-9814-8e5c08d36b58.jpeg" width="256" height="455">
-
-  <img src="https://user-images.githubusercontent.com/72016623/169649992-c39ba4d7-8f04-4ba0-9899-e345a6b32561.jpeg" width="256" height="455">
-    <img src="https://user-images.githubusercontent.com/72016623/169649994-40f47f16-68c2-402f-bd98-d39910441bce.jpeg" width="256" height="455">
-
-</p>
 
 
 ## Bank-UI 2021
