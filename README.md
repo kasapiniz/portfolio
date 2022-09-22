@@ -158,7 +158,7 @@ It is a social media application that allows you to share photos with the people
 - Android Studio
 - firebase
 
-For detailed technical code review; https://github.com/your butcher/fiorfiapp
+For detailed technical code review; https://github.com/kasapiniz/fiorfiapp
 ### Screenshots
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72016623/145818039-3658e08d-3156-499f-8dc7-bcf4c70a031b.jpeg" width="256" height="455">
