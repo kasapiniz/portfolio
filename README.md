@@ -1,4 +1,6 @@
 # Portfolyo
+My Work Experience With Company
+- [Theta] (https://buildwiththeta.com/) - Web,IOS,Android
 MY PROJECTS
 -  [Bivobi](https://play.google.com/store/apps/details?id=com.bivobi.bivobi&gl=TR) - Flutter Mobil App
 -  [SpeakSTU](https://speakstu.com/) - Flutter Mobile App
@@ -6,10 +8,43 @@ MY PROJECTS
 -  [Natours](https://natourssimple.herokuapp.com/) -[Code detail](https://github.com/kasapiniz/natours) - Backend Node.js
 -  [Fiorfi -Kod](https://github.com/kasapiniz/fiorfiapp) -Java Android Mobil App
 
+## Theta 2023
+Theta is a flexible UI tool. It allows you to convert responsive UI to Flutter widgets by running one command. Fast. Super simple.
+- [Web Site](https://buildwiththeta.com/)
+- [Open Source Package- Theta](https://pub.dev/packages/theta)
+- [Theta -Package Github Repository](https://github.com/buildwiththeta/buildwiththeta)
+<p align="center">
+  <img src="https://github.com/kasapiniz/portfolio/assets/72016623/ac60f8df-4a6b-4a2b-80ac-7bb8f76207c0" width="455" height="455">
+</p>
+
+### Technologies I use;
+- Dart-Flutter
+- Typescript
+- Firebase
+- Amplitude
+- Supabase
+- AI
+
+### Feature Videos Links
+
+[Click- Feature Play List](https://www.youtube.com/watch?v=kPAF_eBPIlg&list=PL6ndzc3rNvffRTJCdNc9c9F_YAwAb9AHB)
+--
+- [Api Center](https://youtu.be/2oJfJdk5Rgc)
+- [Market Place](https://youtu.be/RloGb5NwX6U)
+- [Auto Rezing](https://youtu.be/iDl2tdT0k8c)
+- [Template Admin Panel](https://youtu.be/8EMsLEMpwco)
+- [Measuring the distance of elements from each other](https://youtu.be/QunBcKZKqJ0)
+- [Global Project Assets](https://youtu.be/-Om3o_ovzAM)
+- [General Page Design](https://youtu.be/NfTlRRhKb_0)
+- [Movable Node](https://youtu.be/orxVb2Ay_MA)
+- [Template Duplicate](https://youtu.be/kPAF_eBPIlg)
+- [Create Component from nodes](https://youtu.be/VuRkECRR7ZY)
+- [Multiple Selection](https://youtu.be/SG4NDnFS_3s)
+- [Small Features](https://youtu.be/uN0ayV3v3yc)
+
 
 ## Bivobi 2022
 -  [Click for Google Play Review.](https://play.google.com/store/apps/details?id=com.bivobi.bivobi&gl=TR) 
-
 
 An activity application that allows university students to socialize.
 It's the Flutter Project.
