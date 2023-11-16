@@ -11,6 +11,7 @@ MY PROJECTS
 
 ## Theta 2023
 Theta is a flexible UI tool. It allows you to convert responsive UI to Flutter widgets by running one command. Fast. Super simple.
+- [Mobile Application- Teta - App builder](https://play.google.com/store/apps/details?id=so.teta.app)
 - [Web Site](https://buildwiththeta.com/)
 - [Open Source Package- Theta](https://pub.dev/packages/theta)
 - [Theta -Package Github Repository](https://github.com/buildwiththeta/buildwiththeta)
